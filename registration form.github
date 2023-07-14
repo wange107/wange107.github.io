@@ -3,7 +3,7 @@
 <head>
     <title>Student Registration Form</title>
 </head>
-<body  bgcolor=”grey”>
+<body text="blue">
     <h2>Student Registration Form</h2>
     <form action="registration_process.php" method="post">
         <label for="name">Name:</label>
